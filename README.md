@@ -1,3 +1,4 @@
+[ ![Codeship Status for selique/POD](https://codeship.io/projects/3d30d0f0-3cdc-0132-9dee-22846b7cda22/status)](https://codeship.io/projects/43093)
 # [HTML5 Boilerplate](http://html5boilerplate.com)
 
 HTML5 Boilerplate is a professional front-end template for building fast,
